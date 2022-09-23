@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "types": ["mocha", "node"],
+      "outDir": "build/",
+    },
+    "exclude": ["**/*.test.ts","node_modules"]
+  }
