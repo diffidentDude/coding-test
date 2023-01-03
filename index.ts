@@ -45,3 +45,4 @@ const ask = (robot: Robot | undefined) => {
 }
 
 ask(robot);
+
